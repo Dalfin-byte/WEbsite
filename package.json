@@ -1,0 +1,19 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "File MANAGER DUHGHHHH",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/UnknownDevPro/unknowdevpro.github.io.git"
+  },
+  "author": "Max",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UnknownDevPro/unknowdevpro.github.io/issues"
+  },
+  "homepage": "https://github.com/UnknownDevPro/unknowdevpro.github.io#readme"
+}
